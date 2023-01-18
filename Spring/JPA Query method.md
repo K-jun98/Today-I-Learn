@@ -114,3 +114,9 @@ List<Product> findByNameContains(String name); // %word%
 List<Product> findByNmaeStartsWith(String nmae); // %word
 List<Product> findByNameEndsWith(String name); // word%
 ~~~
+
+
+
+### `Reference`
+[공식문서](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/#jpa.query-methods.query-creation)<br>
+스프링 부트 핵심가이드
