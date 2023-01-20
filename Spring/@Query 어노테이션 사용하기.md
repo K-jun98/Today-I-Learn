@@ -20,5 +20,5 @@ List<Object[]> findByNameParam2(@Param("name") String name);
 `직접 문자열`을 입력하기 때문에 컴파일 시점에 에러를 잡지 못하고 `런타임 에러`가 발생할 수 있음.
 
 
-### `Reference`
+### `Referense`
 [스프링부트 핵심가이드](http://www.yes24.com/Product/Goods/110142898)
