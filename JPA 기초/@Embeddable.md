@@ -79,6 +79,10 @@ public class Employee {
   - 개별 속성을 모아서 이해 -> 타입으로 더 쉽게 이해
     - (addr1, addr2, zipcode)를 모아서 '이게 주소구나' -> '주소'네
 
+  
+### 다른 테이블에 값을 저장할 때
+<img width="900" alt="스크린샷 2023-01-21 오후 5 32 38" src="https://user-images.githubusercontent.com/101342145/213858977-c51222f6-ce57-4ed6-9b71-025f4e1a74a3.png">
+
 
 ### `Referense`
 [최범균님 YouTube](https://www.youtube.com/watch?v=WtS5IszIueA&list=PLwouWTPuIjUi9Sih9mEci4Rqhz1VqiQXX&index=6)
